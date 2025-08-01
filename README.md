@@ -26,5 +26,5 @@ Reset & Exit buttons
 ---
 
 ## 📂 Folder Structure (Suggested)
-RestaurantBill_Project.py
+RestaurantBill_Project.py,
 order_number.txt
